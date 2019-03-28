@@ -602,7 +602,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>dart=0 nv_disable=1 kext-dev-mode=1 keepsyms=1 -disablegfxfirmware</string>
+		<string>dart=0 nv_disable=1 kext-dev-mode=1 -disablegfxfirmware keepsyms=1</string>
 		<key>DefaultVolume</key>
 		<string>LastBootedVolume</string>
 		<key>NeverHibernate</key>
@@ -995,7 +995,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02VC4SKHV22WVP1H</string>
+		<string>C02V949DHV27WVPJA</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -1018,11 +1018,6 @@
 		<string>Part Component</string>
 		<key>Manufacturer</key>
 		<string>Apple Inc.</string>
-		<key>Memory</key>
-		<dict>
-			<key>Channels</key>
-			<integer>0</integer>
-		</dict>
 		<key>Mobile</key>
 		<true/>
 		<key>PlatformFeature</key>
@@ -1030,9 +1025,9 @@
 		<key>ProductName</key>
 		<string>MacBookPro14,1</string>
 		<key>SerialNumber</key>
-		<string>C02VC4SKHV22</string>
+		<string>C02V949DHV27</string>
 		<key>SmUUID</key>
-		<string>EAE56774-33C8-4A99-B06B-64EA1551D1D3</string>
+		<string>4F5F994F-FC0E-4825-8913-1B16134A0023</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
